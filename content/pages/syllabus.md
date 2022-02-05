@@ -44,11 +44,48 @@ There are 3 5-page papers that students need to submit. Paper topics will be dis
 
 You will be required to take a 3-hour final exam on material covered throughout the term. The final exam will be at least 2/3 essay format and essay questions will be distributed in the final lecture of the term. The exam will be closed-notes and closed-books. There is no midterm exam. The instructors reserve the right to fail any student in the course who fails to perform at a passing level in any of the grading areas listed above; so, for example, attendance at recitations is required and consistent failure to attend will result in a F for the course.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Recitations | 20% |
-| Papers | 60% |
-| Final Exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 How to Cite a Source
 --------------------
@@ -63,33 +100,339 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**1\. Nativism**{{< /td-colspan >}} |||
-| 2 | History: Plato and Locke | &nbsp; |
-| 3 | Case study: face recognition | &nbsp; |
-| 4 | Concept nativism | First argument analysis due |
-| 5 | Guest lecture: Prof. Jesse Prinz, City University of New York Graduate Center | &nbsp; |
-| 6 | Linguistic nativism | &nbsp; |
-| {{< td-colspan 3 >}}**2\. Perception**{{< /td-colspan >}} |||
-| 7 | Molyneux's problem | &nbsp; |
-| 8 | Guest lecture: Prof. Dick Held, Massachusetts Institute of Technology | First paper due |
-| 9 | Philosophical problems of perception | &nbsp; |
-| 10 | Imagery I | &nbsp; |
-| 11 | Imagery II | &nbsp; |
-| 12 | Guest lecture: Prof. Stephen Kosslyn, Harvard University | Second argument analysis due |
-| 13 | Color and color perception | &nbsp; |
-| 14 | Guest lecture: Prof. David Hilbert, University of Illinois at Chicago | Second paper due |
-| {{< td-colspan 3 >}}**3\. Consciousness**{{< /td-colspan >}} |||
-| 15 | Consciousness: introduction | &nbsp; |
-| 16 | Phenomenal and access consciousness | &nbsp; |
-| 17 | Guest lecture: Prof. Ned Block, New York University | &nbsp; |
-| 18 | Neural correlates of consciousness | &nbsp; |
-| 19 | Guest lecture: Prof. David Chalmers, Australian National University | &nbsp; |
-| 20 | The mind-body problem I | &nbsp; |
-| 21 | The mind-body problem II | &nbsp; |
-| 22 | Consciousness and neuroscience I | &nbsp; |
-| 23 | Consciousness and neuroscience II | Third paper due |
-| 24 | Consciousness: summary | &nbsp; |
-| 25 | Last lecture |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1\. Nativism**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+History: Plato and Locke
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Case study: face recognition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Concept nativism
+{{< tdclose >}}
+{{< tdopen >}}
+First argument analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. Jesse Prinz, City University of New York Graduate Center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Linguistic nativism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2\. Perception**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Molyneux's problem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. Dick Held, Massachusetts Institute of Technology
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Philosophical problems of perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Imagery I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Imagery II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. Stephen Kosslyn, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+Second argument analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Color and color perception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. David Hilbert, University of Illinois at Chicago
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3\. Consciousness**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Consciousness: introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Phenomenal and access consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. Ned Block, New York University
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Neural correlates of consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture: Prof. David Chalmers, Australian National University
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The mind-body problem I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The mind-body problem II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Consciousness and neuroscience I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Consciousness and neuroscience II
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Consciousness: summary
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Last lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

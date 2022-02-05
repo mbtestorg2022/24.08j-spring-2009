@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 5: Are Infants Little Scientists?\t\t\t"
+title: 'Lecture 5: Are Infants Little Scientists?   '
 uid: a69af042-a920-441b-8bde-61f1ac4a9041
 video_files:
   archive_url: http://www.archive.org/download/MIT24.08JS09/MIT24_08JS09_lec05_300k.mp4
