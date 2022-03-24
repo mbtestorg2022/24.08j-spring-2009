@@ -115,7 +115,7 @@ Valberg, J. J. _The Puzzle of Experience_. Oxford University Press, 1992, pp. 19
 
 Petkova, Valerie I. and Henrik H. Ehrsson. "[If I Were You: Perceptual Illusion of Body Swapping](http://dx.doi.org/10.1371/journal.pone.0003832)." _PLos ONE_ 3, no. 12 (2008): 1–9.
 
-Block, Ned. "Mental Pictures and Cognitive Science." _The Philosophical Review_ 92, no. 4 (1983): 499–541. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/mentalimagery.pdf))
+Block, Ned. "Mental Pictures and Cognitive Science." _The Philosophical Review_ 92, no. 4 (1983): 499–541. ([PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/mentalimagery.pdf))
 
 Tye, Michael. "[The Picture Theory of Mental Images](http://www.jstor.org/stable/2185413)." _The Philosophical Review_ 97, no. 4 (1988): 497–520.
 
@@ -159,7 +159,7 @@ Koch, Christof and Tsuchiya, Naotsugu. "[Attention and Consciousness: Two Distin
 
 Farah, Martha J. and Nancey Murphy. "[Neuroscience and the Soul](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1045&context=neuroethics_pubs)." _Science_ 323, no. 5918 (2009): 1168.
 
-Block, Ned. "Comparing the Major Theories of Consciousness." _The Cognitive Neurosciences_ IV (2009): 1–22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Theories_of_Consciousness.pdf))
+Block, Ned. "Comparing the Major Theories of Consciousness." _The Cognitive Neurosciences_ IV (2009): 1–22. ([PDF](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Theories_of_Consciousness.pdf))
 
 Block, Ned and MacDonald. "[Phenomenal and Access Consciousness](http://protoscience.wikia.com/wiki/Phenomenal_and_Access_Conciousness)." _Proceedings of the Aristotelian Society_ cviii, part 3 (2008): 1467–9264.
 
